@@ -3868,6 +3868,15 @@
       "tags": [
         "youtube"
       ]
+    },
+    {
+      "icons": [
+        "ios-sda-se-logo",
+        "md-sda-se-logo"
+      ],
+      "tags": [
+        "sda"
+      ]
     }
   ]
 }

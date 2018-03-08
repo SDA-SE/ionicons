@@ -1,6 +1,6 @@
 {
   "prefix": "ion-",
-  "hash": "ac5c3689958ddb92529159b09fe246aa4306b036063f14d2eef347ec4e92000b",
+  "hash": "807132efa8994aa7727adbd8f63db0bf9fd295da680c7e6120aa44b21f33b469",
   "name": "Ionicons",
   "icons": [
     {
@@ -1046,6 +1046,10 @@
     {
       "code": "0xf209",
       "name": "ios-school"
+    },
+    {
+      "code": "0xf1af",
+      "name": "ios-sda-se-logo"
     },
     {
       "code": "0xf4a5",
@@ -2566,6 +2570,10 @@
     {
       "code": "0xf374",
       "name": "md-school"
+    },
+    {
+      "code": "0xf1ad",
+      "name": "md-sda-se-logo"
     },
     {
       "code": "0xf375",
