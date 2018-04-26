@@ -1,8 +1,12 @@
 {
   "prefix": "ion-",
-  "hash": "807132efa8994aa7727adbd8f63db0bf9fd295da680c7e6120aa44b21f33b469",
+  "hash": "02a71798157139d7cc05490f3ec3aa2a5244c62e209d07f400ba40e7e5e79a64",
   "name": "Ionicons",
   "icons": [
+    {
+      "code": "0xf1b3",
+      "name": "geomedis-bag"
+    },
     {
       "code": "0xf102",
       "name": "ios-add"
@@ -1048,10 +1052,6 @@
       "name": "ios-school"
     },
     {
-      "code": "0xf1af",
-      "name": "ios-sda-se-logo"
-    },
-    {
       "code": "0xf4a5",
       "name": "ios-search"
     },
@@ -1450,6 +1450,10 @@
     {
       "code": "0xf249",
       "name": "logo-sass"
+    },
+    {
+      "code": "0xf1ad",
+      "name": "logo-sda"
     },
     {
       "code": "0xf24a",
@@ -2570,10 +2574,6 @@
     {
       "code": "0xf374",
       "name": "md-school"
-    },
-    {
-      "code": "0xf1ad",
-      "name": "md-sda-se-logo"
     },
     {
       "code": "0xf375",

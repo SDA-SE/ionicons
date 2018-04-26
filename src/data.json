@@ -3871,11 +3871,18 @@
     },
     {
       "icons": [
-        "ios-sda-se-logo",
-        "md-sda-se-logo"
+        "logo-sda"
       ],
       "tags": [
         "sda"
+      ]
+    },
+    {
+      "icons": [
+        "geomedis-bag"
+      ],
+      "tags": [
+        "geomedis-bag"
       ]
     }
   ]
