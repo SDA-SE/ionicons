@@ -3879,6 +3879,14 @@
     },
     {
       "icons": [
+        "logo-hallesche"
+      ],
+      "tags": [
+        "hallesche"
+      ]
+    },
+    {
+      "icons": [
         "geomedis-bag"
       ],
       "tags": [

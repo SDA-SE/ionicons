@@ -1,6 +1,6 @@
 {
   "prefix": "ion-",
-  "hash": "02a71798157139d7cc05490f3ec3aa2a5244c62e209d07f400ba40e7e5e79a64",
+  "hash": "1de0d7c8524075191468c664380b1bdf7c3e9655f7cf0daae5fee8f866bd5c0c",
   "name": "Ionicons",
   "icons": [
     {
@@ -1374,6 +1374,10 @@
     {
       "code": "0xf23c",
       "name": "logo-hackernews"
+    },
+    {
+      "code": "0xf1af",
+      "name": "logo-hallesche"
     },
     {
       "code": "0xf23d",
