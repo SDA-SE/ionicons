@@ -3887,6 +3887,22 @@
     },
     {
       "icons": [
+        "logo-hallesche4y-full"
+      ],
+      "tags": [
+        "hallesche4y-full"
+      ]
+    },
+    {
+      "icons": [
+        "logo-hallesche4y"
+      ],
+      "tags": [
+        "hallesche4y"
+      ]
+    },
+    {
+      "icons": [
         "geomedis-bag"
       ],
       "tags": [

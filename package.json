@@ -9,7 +9,7 @@
   "types": "dist/types/index.d.ts",
   "collection": "dist/collection/collection-manifest.json",
   "scripts": {
-    "build": "npm run build.icon && npm run generate && npm run svg-to-js && npm run build.data && npm run build.css  && npm run icon-copy",
+    "build": "npm run build.icon && npm run generate && npm run svg-to-js && npm run build.data && npm run build.css && npm run icon-copy",
     "build.icon": "stencil build",
     "build.docs": "stencil build --config src/docs/stencil.config.js",
     "build.data": "node scripts/data.js",

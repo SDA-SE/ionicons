@@ -1,6 +1,6 @@
 {
   "prefix": "ion-",
-  "hash": "14c6e5a6d46905b5fbbb843d8369c3acefda475cd9804198f8c9711bb534707c",
+  "hash": "eb4dce19e80491546443cbbaf99f799296934a71333daf0985269042cbb77753",
   "name": "Ionicons",
   "icons": [
     {
@@ -1378,6 +1378,14 @@
     {
       "code": "0xf1af",
       "name": "logo-hallesche"
+    },
+    {
+      "code": "0xf1b7",
+      "name": "logo-hallesche4y"
+    },
+    {
+      "code": "0xf1b5",
+      "name": "logo-hallesche4y-full"
     },
     {
       "code": "0xf23d",
