@@ -1,6 +1,6 @@
 {
   "prefix": "ion-",
-  "hash": "f5cab9476a095b7b8d567c0d9a396b3cd0fe835b5c300af0cf6ab9a20de5a8aa",
+  "hash": "abb1104601e9ff3364e875a2629e48aacf350cd63c7f054c801f6e05ada7c016",
   "name": "Ionicons",
   "icons": [
     {
@@ -1338,6 +1338,10 @@
     {
       "code": "0xf236",
       "name": "logo-facebook"
+    },
+    {
+      "code": "0xf1ba",
+      "name": "logo-fin4u"
     },
     {
       "code": "0xf107",
